@@ -1,8 +1,8 @@
 fx_version 'bodacious'
 game 'gta5'
 
-author ' тяk 益#0001'
-contact 'тяk 益#0001 https://discord.gg/k4sXStqQXD'
+author ' Kah S2#6969'
+contact 'Kah S2#6969'
 version '1.0.0'
 
 client_scripts {
